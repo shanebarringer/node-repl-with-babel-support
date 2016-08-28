@@ -1,7 +1,7 @@
 {
   "name": "babel_node_repl",
   "version": "1.0.0",
-  "description": "",
+  "description": "a simple node loader with babel integration",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
